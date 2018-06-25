@@ -1,0 +1,32 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+input {
+    width: 70%;
+    height: 3em;
+    padding: 10px;
+    margin: 10px !important;
+    font-size: 2em;
+}
+
+.btn-primary {
+    width: 30em;
+    background-color: #2b67cf;
+}
+.btn-primary.disabled, 
+.btn-primary:disabled {
+    font-size: 25px;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+input placeholder {
+    font-size: 20px;
+}
